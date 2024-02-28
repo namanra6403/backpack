@@ -2,6 +2,6 @@
 
 int main() {
 
-printf("Hello, gitWorld and CS 211\n");
+printf("Maximum value of 660 \n");
 
 }
